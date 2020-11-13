@@ -1,0 +1,7 @@
+C:\Users\gabriel.scorrea4\source\repos\prj_02_poo_planos_club_solution\prj_02_poo_planos_club\bin\Debug\prj_02_poo_planos_club.exe.config
+C:\Users\gabriel.scorrea4\source\repos\prj_02_poo_planos_club_solution\prj_02_poo_planos_club\bin\Debug\prj_02_poo_planos_club.exe
+C:\Users\gabriel.scorrea4\source\repos\prj_02_poo_planos_club_solution\prj_02_poo_planos_club\bin\Debug\prj_02_poo_planos_club.pdb
+C:\Users\gabriel.scorrea4\source\repos\prj_02_poo_planos_club_solution\prj_02_poo_planos_club\obj\Debug\prj_02_poo_planos_club.csprojAssemblyReference.cache
+C:\Users\gabriel.scorrea4\source\repos\prj_02_poo_planos_club_solution\prj_02_poo_planos_club\obj\Debug\prj_02_poo_planos_club.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.scorrea4\source\repos\prj_02_poo_planos_club_solution\prj_02_poo_planos_club\obj\Debug\prj_02_poo_planos_club.exe
+C:\Users\gabriel.scorrea4\source\repos\prj_02_poo_planos_club_solution\prj_02_poo_planos_club\obj\Debug\prj_02_poo_planos_club.pdb
