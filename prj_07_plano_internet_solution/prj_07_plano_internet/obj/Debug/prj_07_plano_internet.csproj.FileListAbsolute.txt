@@ -1,0 +1,14 @@
+C:\Users\gabriel.scorrea4\source\repos\prj_07_plano_internet_solution\prj_07_plano_internet\bin\Debug\prj_07_plano_internet.exe.config
+C:\Users\gabriel.scorrea4\source\repos\prj_07_plano_internet_solution\prj_07_plano_internet\bin\Debug\prj_07_plano_internet.exe
+C:\Users\gabriel.scorrea4\source\repos\prj_07_plano_internet_solution\prj_07_plano_internet\bin\Debug\prj_07_plano_internet.pdb
+C:\Users\gabriel.scorrea4\source\repos\prj_07_plano_internet_solution\prj_07_plano_internet\obj\Debug\prj_07_plano_internet.csprojAssemblyReference.cache
+C:\Users\gabriel.scorrea4\source\repos\prj_07_plano_internet_solution\prj_07_plano_internet\obj\Debug\prj_07_plano_internet.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.scorrea4\source\repos\prj_07_plano_internet_solution\prj_07_plano_internet\obj\Debug\prj_07_plano_internet.exe
+C:\Users\gabriel.scorrea4\source\repos\prj_07_plano_internet_solution\prj_07_plano_internet\obj\Debug\prj_07_plano_internet.pdb
+D:\Curso_Programação_2019\Visual_Studio_C#\repos\prj_07_plano_internet_solution\prj_07_plano_internet\bin\Debug\prj_07_plano_internet.exe.config
+D:\Curso_Programação_2019\Visual_Studio_C#\repos\prj_07_plano_internet_solution\prj_07_plano_internet\bin\Debug\prj_07_plano_internet.exe
+D:\Curso_Programação_2019\Visual_Studio_C#\repos\prj_07_plano_internet_solution\prj_07_plano_internet\bin\Debug\prj_07_plano_internet.pdb
+D:\Curso_Programação_2019\Visual_Studio_C#\repos\prj_07_plano_internet_solution\prj_07_plano_internet\obj\Debug\prj_07_plano_internet.csprojAssemblyReference.cache
+D:\Curso_Programação_2019\Visual_Studio_C#\repos\prj_07_plano_internet_solution\prj_07_plano_internet\obj\Debug\prj_07_plano_internet.csproj.CoreCompileInputs.cache
+D:\Curso_Programação_2019\Visual_Studio_C#\repos\prj_07_plano_internet_solution\prj_07_plano_internet\obj\Debug\prj_07_plano_internet.exe
+D:\Curso_Programação_2019\Visual_Studio_C#\repos\prj_07_plano_internet_solution\prj_07_plano_internet\obj\Debug\prj_07_plano_internet.pdb

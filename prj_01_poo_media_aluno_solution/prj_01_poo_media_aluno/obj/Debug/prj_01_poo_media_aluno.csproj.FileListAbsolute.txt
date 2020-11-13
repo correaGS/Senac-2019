@@ -1,0 +1,14 @@
+c:\users\gabriel.scorrea4\source\repos\prj_01_poo_media_aluno_solution\prj_01_poo_media_aluno\bin\Debug\prj_01_poo_media_aluno.exe.config
+c:\users\gabriel.scorrea4\source\repos\prj_01_poo_media_aluno_solution\prj_01_poo_media_aluno\bin\Debug\prj_01_poo_media_aluno.exe
+c:\users\gabriel.scorrea4\source\repos\prj_01_poo_media_aluno_solution\prj_01_poo_media_aluno\bin\Debug\prj_01_poo_media_aluno.pdb
+c:\users\gabriel.scorrea4\source\repos\prj_01_poo_media_aluno_solution\prj_01_poo_media_aluno\obj\Debug\prj_01_poo_media_aluno.csprojAssemblyReference.cache
+c:\users\gabriel.scorrea4\source\repos\prj_01_poo_media_aluno_solution\prj_01_poo_media_aluno\obj\Debug\prj_01_poo_media_aluno.csproj.CoreCompileInputs.cache
+c:\users\gabriel.scorrea4\source\repos\prj_01_poo_media_aluno_solution\prj_01_poo_media_aluno\obj\Debug\prj_01_poo_media_aluno.exe
+c:\users\gabriel.scorrea4\source\repos\prj_01_poo_media_aluno_solution\prj_01_poo_media_aluno\obj\Debug\prj_01_poo_media_aluno.pdb
+D:\Curso_Programação_2019\Visual_Studio_C#\repos\prj_01_poo_media_aluno_solution\prj_01_poo_media_aluno\bin\Debug\prj_01_poo_media_aluno.exe.config
+D:\Curso_Programação_2019\Visual_Studio_C#\repos\prj_01_poo_media_aluno_solution\prj_01_poo_media_aluno\bin\Debug\prj_01_poo_media_aluno.exe
+D:\Curso_Programação_2019\Visual_Studio_C#\repos\prj_01_poo_media_aluno_solution\prj_01_poo_media_aluno\bin\Debug\prj_01_poo_media_aluno.pdb
+D:\Curso_Programação_2019\Visual_Studio_C#\repos\prj_01_poo_media_aluno_solution\prj_01_poo_media_aluno\obj\Debug\prj_01_poo_media_aluno.csprojAssemblyReference.cache
+D:\Curso_Programação_2019\Visual_Studio_C#\repos\prj_01_poo_media_aluno_solution\prj_01_poo_media_aluno\obj\Debug\prj_01_poo_media_aluno.csproj.CoreCompileInputs.cache
+D:\Curso_Programação_2019\Visual_Studio_C#\repos\prj_01_poo_media_aluno_solution\prj_01_poo_media_aluno\obj\Debug\prj_01_poo_media_aluno.exe
+D:\Curso_Programação_2019\Visual_Studio_C#\repos\prj_01_poo_media_aluno_solution\prj_01_poo_media_aluno\obj\Debug\prj_01_poo_media_aluno.pdb

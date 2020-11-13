@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prj_07_plano_internet", "prj_07_plano_internet\prj_07_plano_internet.csproj", "{81340243-B4A9-4D12-98F3-2AB7C9A71A0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81340243-B4A9-4D12-98F3-2AB7C9A71A0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81340243-B4A9-4D12-98F3-2AB7C9A71A0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81340243-B4A9-4D12-98F3-2AB7C9A71A0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81340243-B4A9-4D12-98F3-2AB7C9A71A0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8FAA752-E4EA-48FE-A394-EE819646D06F}
+	EndGlobalSection
+EndGlobal
