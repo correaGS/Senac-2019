@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prj_10_seguradora", "prj_10_seguradora\prj_10_seguradora.csproj", "{C3DEAA8C-8735-4653-BBE4-7B99532F1AFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3DEAA8C-8735-4653-BBE4-7B99532F1AFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3DEAA8C-8735-4653-BBE4-7B99532F1AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3DEAA8C-8735-4653-BBE4-7B99532F1AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3DEAA8C-8735-4653-BBE4-7B99532F1AFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CE4130F-5DDF-4A96-A777-F3D579BEEC20}
+	EndGlobalSection
+EndGlobal

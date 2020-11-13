@@ -1,0 +1,7 @@
+C:\Users\gabriel.scorrea4\source\repos\prj15_revisao2_solution\prj15_revisao2\bin\Debug\prj15_revisao2.exe.config
+C:\Users\gabriel.scorrea4\source\repos\prj15_revisao2_solution\prj15_revisao2\bin\Debug\prj15_revisao2.exe
+C:\Users\gabriel.scorrea4\source\repos\prj15_revisao2_solution\prj15_revisao2\bin\Debug\prj15_revisao2.pdb
+C:\Users\gabriel.scorrea4\source\repos\prj15_revisao2_solution\prj15_revisao2\obj\Debug\prj15_revisao2.csprojAssemblyReference.cache
+C:\Users\gabriel.scorrea4\source\repos\prj15_revisao2_solution\prj15_revisao2\obj\Debug\prj15_revisao2.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.scorrea4\source\repos\prj15_revisao2_solution\prj15_revisao2\obj\Debug\prj15_revisao2.exe
+C:\Users\gabriel.scorrea4\source\repos\prj15_revisao2_solution\prj15_revisao2\obj\Debug\prj15_revisao2.pdb

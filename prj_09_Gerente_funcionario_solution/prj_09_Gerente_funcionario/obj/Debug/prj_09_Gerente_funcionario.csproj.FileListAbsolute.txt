@@ -1,0 +1,7 @@
+C:\Users\gabriel.scorrea4\source\repos\prj_09_Gerente_funcionario_solution\prj_09_Gerente_funcionario\bin\Debug\prj_09_Gerente_funcionario.exe.config
+C:\Users\gabriel.scorrea4\source\repos\prj_09_Gerente_funcionario_solution\prj_09_Gerente_funcionario\bin\Debug\prj_09_Gerente_funcionario.exe
+C:\Users\gabriel.scorrea4\source\repos\prj_09_Gerente_funcionario_solution\prj_09_Gerente_funcionario\bin\Debug\prj_09_Gerente_funcionario.pdb
+C:\Users\gabriel.scorrea4\source\repos\prj_09_Gerente_funcionario_solution\prj_09_Gerente_funcionario\obj\Debug\prj_09_Gerente_funcionario.csprojAssemblyReference.cache
+C:\Users\gabriel.scorrea4\source\repos\prj_09_Gerente_funcionario_solution\prj_09_Gerente_funcionario\obj\Debug\prj_09_Gerente_funcionario.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.scorrea4\source\repos\prj_09_Gerente_funcionario_solution\prj_09_Gerente_funcionario\obj\Debug\prj_09_Gerente_funcionario.exe
+C:\Users\gabriel.scorrea4\source\repos\prj_09_Gerente_funcionario_solution\prj_09_Gerente_funcionario\obj\Debug\prj_09_Gerente_funcionario.pdb

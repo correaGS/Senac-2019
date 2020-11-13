@@ -1,0 +1,7 @@
+C:\Users\gabriel.scorrea4\source\repos\prj_06_bilheta_bom_solution\prj_06_bilheta_bom\bin\Debug\prj_06_bilheta_bom.exe.config
+C:\Users\gabriel.scorrea4\source\repos\prj_06_bilheta_bom_solution\prj_06_bilheta_bom\bin\Debug\prj_06_bilheta_bom.exe
+C:\Users\gabriel.scorrea4\source\repos\prj_06_bilheta_bom_solution\prj_06_bilheta_bom\bin\Debug\prj_06_bilheta_bom.pdb
+C:\Users\gabriel.scorrea4\source\repos\prj_06_bilheta_bom_solution\prj_06_bilheta_bom\obj\Debug\prj_06_bilheta_bom.csprojAssemblyReference.cache
+C:\Users\gabriel.scorrea4\source\repos\prj_06_bilheta_bom_solution\prj_06_bilheta_bom\obj\Debug\prj_06_bilheta_bom.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.scorrea4\source\repos\prj_06_bilheta_bom_solution\prj_06_bilheta_bom\obj\Debug\prj_06_bilheta_bom.exe
+C:\Users\gabriel.scorrea4\source\repos\prj_06_bilheta_bom_solution\prj_06_bilheta_bom\obj\Debug\prj_06_bilheta_bom.pdb

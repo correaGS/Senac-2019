@@ -1,0 +1,7 @@
+C:\Users\gabriel.scorrea4\source\repos\prj_10_seguradora\prj_10_seguradora\bin\Debug\prj_10_seguradora.exe.config
+C:\Users\gabriel.scorrea4\source\repos\prj_10_seguradora\prj_10_seguradora\bin\Debug\prj_10_seguradora.exe
+C:\Users\gabriel.scorrea4\source\repos\prj_10_seguradora\prj_10_seguradora\bin\Debug\prj_10_seguradora.pdb
+C:\Users\gabriel.scorrea4\source\repos\prj_10_seguradora\prj_10_seguradora\obj\Debug\prj_10_seguradora.csprojAssemblyReference.cache
+C:\Users\gabriel.scorrea4\source\repos\prj_10_seguradora\prj_10_seguradora\obj\Debug\prj_10_seguradora.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.scorrea4\source\repos\prj_10_seguradora\prj_10_seguradora\obj\Debug\prj_10_seguradora.exe
+C:\Users\gabriel.scorrea4\source\repos\prj_10_seguradora\prj_10_seguradora\obj\Debug\prj_10_seguradora.pdb
